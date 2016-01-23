@@ -26,4 +26,5 @@ Because of this, I will provide instructions on how to acquire ASCAP's data, but
 
 ## Info, Questions and Comments
 Scott Carlson is the Metadata Coordinator of Fondren Library at Rice University. He received his MLIS from Dominican University (River Forest, IL) and an Archives Certificate in Digital Stewardship from Simmons College (Boston, MA). Scott is also the co-founder of [Indie Preserves] (http://www.indiepreserves.info/), a website that provides practical preservation advice to independent music labels and bands, and [Frodis Records] (http://www.frodisrecords.com/), an independent archival/reissue record label.
+
 sjc5@rice.edu
