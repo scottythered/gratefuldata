@@ -10,7 +10,7 @@ To get started, you will need a program called Refine. If you don't already have
 
 [Linux kit] (https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.tar.gz) (Download, extract, then type ./refine to start. NOTE: Google Refine 2.5 for linux support java 6 and 7 only.)
 
-Once Refine is installed on your machine, click the WIKI link at the top of the page to jump in.
+Once Refine is installed on your machine, click the [Wiki] (https://github.com/scottythered/gratefuldata/wiki) link at the top of the page to jump right in.
 
 ## A Note About Licensing
 The instructions of this tutorial are licensed as Creative Commons Attribution-NonCommercial-ShareAlike 4.0. More information is available [here] (https://creativecommons.org/licenses/by-nc-sa/4.0/), but the short version is treat it like a tape-trader: share and share alike, but not for commercial purposes, and always with  appropriate credit. If you want to build on what I've done, fantastic, but only under the same license.
