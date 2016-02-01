@@ -25,6 +25,6 @@ Grateful Data uses sample data culled from the Internet Archive and the American
 Because of this, I will provide instructions on how to acquire ASCAP's data, but will not make the data available on this Git.
 
 ## Info, Questions and Comments
-Scott Carlson is the Metadata Coordinator of Fondren Library at Rice University. He received his MLIS from Dominican University (River Forest, IL) and an Archives Certificate in Digital Stewardship from Simmons College (Boston, MA). Scott is also the co-founder of [Indie Preserves] (http://www.indiepreserves.info/), a website that provides practical preservation advice to independent music labels and bands, and [Frodis Records] (http://www.frodisrecords.com/), an independent archival/reissue record label.
+I am Scott Carlson, the Metadata Coordinator of Fondren Library at Rice University. I received my MLIS from Dominican University (River Forest, IL) and an Archives Certificate in Digital Stewardship from Simmons College (Boston, MA). I am also the co-founder of [Indie Preserves] (http://www.indiepreserves.info/), a website that provides practical preservation advice to independent music labels and bands. I've recently founded [Frodis Records] (http://www.frodisrecords.com/), an independent archival/reissue record label.
 
-sjc5@rice.edu
+Email me at: sjc5@rice.edu

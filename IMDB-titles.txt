@@ -29,4 +29,8 @@ Bickershaw
  Fillmore
  1970 San Francisco Rock: A Night at the Family Dog
 Petulia
+<<<<<<< HEAD
  The Hippie Temptation  
+=======
+ The Hippie Temptation  
+>>>>>>> cc2cc732bcb33bbe6e23d78af4cd13683c5fb448
