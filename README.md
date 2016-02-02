@@ -6,7 +6,7 @@ To get started, you will need a program called Refine. If you don't already have
 
 Refine's GitHub, with download links and installation instructions, is [here](https://github.com/OpenRefine/OpenRefine).
 
-Once Refine is installed on your machine, click on the *DOWNLOAD ZIP* button to save the practice data locally. Then click the [Wiki] (https://github.com/scottythered/gratefuldata/wiki) link at the top of the page to jump right in.
+Once Refine is installed on your machine, click on [DOWNLOAD ZIP](https://github.com/scottythered/gratefuldata/archive/master.zip) to save the practice/sample data locally. Then click the [Wiki] (https://github.com/scottythered/gratefuldata/wiki) link at the top of the page to jump right in.
 
 ## A Note About Licensing
 The instructions of this tutorial are licensed as Creative Commons Attribution-NonCommercial-ShareAlike 4.0. More information is available [here] (https://creativecommons.org/licenses/by-nc-sa/4.0/), but the short version is treat it like a tape-trader: share and share alike, but not for commercial purposes, and always with  appropriate credit. If you want to build on what I've done, fantastic, but only under the same license.
