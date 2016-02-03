@@ -1817,11 +1817,6 @@
 	<skos:definition>The Bank, 19840 South Hamilton Avenue, Torrance, CA 90502</skos:definition>
 </skos:Concept>
 
-<skos:Concept rdf:about="http://www.fakedomain.com/id/19681219">
-	<skos:prefLabel>1968-12-19</skos:prefLabel>
-	<skos:definition>Shrine Exhibition Hall, 649 W. Jefferson Boulevard, Los Angeles, CA 90007</skos:definition>
-</skos:Concept>
-
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19681220">
 	<skos:prefLabel>1968-12-20</skos:prefLabel>
 	<skos:definition>Shrine Exhibition Hall, 649 W. Jefferson Boulevard, Los Angeles, CA 90007</skos:definition>
@@ -2318,6 +2313,11 @@
 	<skos:definition>Hippy Hill, Golden Gate Park, San Francisco, CA</skos:definition>
 </skos:Concept>
 
+<skos:Concept rdf:about="http://www.fakedomain.com/id/19690824">
+	<skos:prefLabel>1969-08-28</skos:prefLabel>
+	<skos:definition>Family Dog On The Great Highway, 660 Great Highway, San Francisco, CA 94121</skos:definition>
+</skos:Concept>
+
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19690829">
 	<skos:prefLabel>1969-08-29</skos:prefLabel>
 	<skos:definition>Family Dog On The Great Highway, 660 Great Highway, San Francisco, CA 94121</skos:definition>
@@ -2548,11 +2548,6 @@
 	<skos:definition>Golden Hall, 202 "C" Street, San Diego, CA 92101</skos:definition>
 </skos:Concept>
 
-<skos:Concept rdf:about="http://www.fakedomain.com/id/19700115">
-	<skos:prefLabel>1970-01-15</skos:prefLabel>
-	<skos:definition>Green Lake Aqua Theatre, 7312 West Green Lake Dr N, Seattle, WA 98103</skos:definition>
-</skos:Concept>
-
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19700116">
 	<skos:prefLabel>1970-01-16</skos:prefLabel>
 	<skos:definition>Springer's Inn, 18300 SE Richey Rd, Gresham, OR 97080</skos:definition>
@@ -2703,13 +2698,8 @@
 	<skos:definition>Capitol Theater, 149 Westchester Avenue, Port Chester, NY 10573</skos:definition>
 </skos:Concept>
 
-<skos:Concept rdf:about="http://www.fakedomain.com/id/19700322">
-	<skos:prefLabel>1970-03-22</skos:prefLabel>
-	<skos:definition>Pirates World, E. Sheridan Street, Dania, FL</skos:definition>
-</skos:Concept>
-
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19700323">
-	<skos:prefLabel>1970-03-23</skos:prefLabel>
+	<skos:prefLabel>1970-03-24</skos:prefLabel>
 	<skos:definition>Pirates World, E. Sheridan Street, Dania, FL</skos:definition>
 </skos:Concept>
 
@@ -2813,11 +2803,6 @@
 	<skos:definition>Temple University, Philadelphia, PA</skos:definition>
 </skos:Concept>
 
-<skos:Concept rdf:about="http://www.fakedomain.com/id/19700521">
-	<skos:prefLabel>1970-05-21</skos:prefLabel>
-	<skos:definition>Pepperland, 737 E. Francisco Blvd., San Rafael, CA 94901</skos:definition>
-</skos:Concept>
-
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19700524">
 	<skos:prefLabel>1970-05-24</skos:prefLabel>
 	<skos:definition>Newcastle-Under-Lyme, Newcastle, England, UK</skos:definition>
@@ -2874,24 +2859,13 @@
 	<skos:definition>Canadian National Exhibition Stadium, Toronto, ON</skos:definition>
 </skos:Concept>
 
-<skos:Concept rdf:about="http://www.fakedomain.com/id/19700628">
-	<skos:prefLabel>1970-06-28</skos:prefLabel>
-	<skos:definition>Coronation Park, Toronto, ON</skos:definition>
-	<skos:definition>Canadian National Exhibition Stadium, Toronto, ON</skos:definition>
-</skos:Concept>
-
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19700701">
 	<skos:prefLabel>1970-07-01</skos:prefLabel>
 	<skos:definition>Winnipeg Fairgrounds, Winnipeg, MB</skos:definition>
 </skos:Concept>
 
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19700704">
-	<skos:prefLabel>1970-07-04</skos:prefLabel>
-	<skos:definition>McMahon Stadium, 1817 Crowchild Trail NW, Calgary, AB</skos:definition>
-</skos:Concept>
-
-<skos:Concept rdf:about="http://www.fakedomain.com/id/19700705">
-	<skos:prefLabel>1970-07-05</skos:prefLabel>
+	<skos:prefLabel>1970-07-03</skos:prefLabel>
 	<skos:definition>McMahon Stadium, 1817 Crowchild Trail NW, Calgary, AB</skos:definition>
 </skos:Concept>
 
@@ -3200,11 +3174,6 @@
 	<skos:definition>Gymnasium, Lane Community College, Eugene, OR</skos:definition>
 </skos:Concept>
 
-<skos:Concept rdf:about="http://www.fakedomain.com/id/19710123">
-	<skos:prefLabel>1971-01-23</skos:prefLabel>
-	<skos:definition>Vancouver Coliseum, Vancouver, BC</skos:definition>
-</skos:Concept>
-
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19710124">
 	<skos:prefLabel>1971-01-24</skos:prefLabel>
 	<skos:definition>Seattle Center Coliseum, 305 Harrison St, Seattle, WA 98109-4623</skos:definition>
@@ -3431,10 +3400,7 @@
 </skos:Concept>
 
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19710814">
-	<skos:definition>Berkeley Community Theater, 1930 Allston Way, Berkeley, CA 94704</skos:definition>
-</skos:Concept>
-
-<skos:Concept rdf:about="http://www.fakedomain.com/id/19710815">
+	<skos:prefLabel>1971-08-15</skos:prefLabel>
 	<skos:definition>Berkeley Community Theater, 1930 Allston Way, Berkeley, CA 94704</skos:definition>
 </skos:Concept>
 
@@ -3620,6 +3586,11 @@
 
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19720323">
 	<skos:prefLabel>1972-03-23</skos:prefLabel>
+	<skos:definition>Academy of Music, 126 East 14th Street, New York, NY 10003</skos:definition>
+</skos:Concept>
+
+<skos:Concept rdf:about="http://www.fakedomain.com/id/19720326">
+	<skos:prefLabel>1972-03-25</skos:prefLabel>
 	<skos:definition>Academy of Music, 126 East 14th Street, New York, NY 10003</skos:definition>
 </skos:Concept>
 
@@ -5403,11 +5374,6 @@
 	<skos:definition>Winterland, Post Street and Steiner Street, San Francisco, CA 94115</skos:definition>
 </skos:Concept>
 
-<skos:Concept rdf:about="http://www.fakedomain.com/id/19781111">
-	<skos:prefLabel>1978-11-11</skos:prefLabel>
-	<skos:definition>NBC Studios, 30 Rockefeller Plaza, New York, NY 10112</skos:definition>
-</skos:Concept>
-
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19781113">
 	<skos:prefLabel>1978-11-13</skos:prefLabel>
 	<skos:definition>Boston Music Hall, Boston, MA</skos:definition>
@@ -6018,6 +5984,11 @@
 	<skos:definition>Seattle Center Arena, 305 Harrison St, Seattle, WA 98109-4623</skos:definition>
 </skos:Concept>
 
+<skos:Concept rdf:about="http://www.fakedomain.com/id/19800613">
+	<skos:prefLabel>1980-06-14</skos:prefLabel>
+	<skos:definition>Spokane Coliseum, Spokane, WA</skos:definition>
+</skos:Concept>
+
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19800619">
 	<skos:prefLabel>1980-06-19</skos:prefLabel>
 	<skos:definition>West High Auditorium, 1700 Hillcrest Dr, Anchorage, AK 99517</skos:definition>
@@ -6404,6 +6375,11 @@
 </skos:Concept>
 
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19810430">
+	<skos:prefLabel>1981-04-25</skos:prefLabel>
+	<skos:definition>Sing Out For Sight Benefit</skos:definition>
+</skos:Concept>
+
+<skos:Concept rdf:about="http://www.fakedomain.com/id/19810430">
 	<skos:prefLabel>1981-04-30</skos:prefLabel>
 	<skos:definition>Greensboro Coliseum, 1921 West Gate City Blvd, Greensboro, NC 27403</skos:definition>
 </skos:Concept>
@@ -6431,11 +6407,6 @@
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19810506">
 	<skos:prefLabel>1981-05-06</skos:prefLabel>
 	<skos:definition>Nassau Veterans Memorial Coliseum, 1255 Hempstead Turnpike, Uniondale, NY 11553</skos:definition>
-</skos:Concept>
-
-<skos:Concept rdf:about="http://www.fakedomain.com/id/19810507">
-	<skos:prefLabel>1981-05-07</skos:prefLabel>
-	<skos:definition>NBC Studios, 30 Rockefeller Plaza, New York, NY 10112</skos:definition>
 </skos:Concept>
 
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19810508">
@@ -6476,6 +6447,11 @@
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19810517">
 	<skos:prefLabel>1981-05-17</skos:prefLabel>
 	<skos:definition>Onondaga County War Memorial, Syracuse, NY</skos:definition>
+</skos:Concept>
+
+<skos:Concept rdf:about="http://www.fakedomain.com/id/19810517">
+	<skos:prefLabel>1981-05-22</skos:prefLabel>
+	<skos:definition>Warfield Theater, San Francisco, CA</skos:definition>
 </skos:Concept>
 
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19810702">
@@ -7131,11 +7107,6 @@
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19830426">
 	<skos:prefLabel>1983-04-26</skos:prefLabel>
 	<skos:definition>The Spectrum, 3601 S. Broad Street, Philadelphia, PA 19148</skos:definition>
-</skos:Concept>
-
-<skos:Concept rdf:about="http://www.fakedomain.com/id/19830511">
-	<skos:prefLabel>1983-05-11</skos:prefLabel>
-	<skos:definition>Reno-Sparks Convention Center, 4590 S Virginia St, Reno, NV 89502</skos:definition>
 </skos:Concept>
 
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19830513">
@@ -9108,11 +9079,6 @@
 	<skos:definition>Oakland Coliseum Arena, 695 Hegenberger Road, Oakland, CA 94621</skos:definition>
 </skos:Concept>
 
-<skos:Concept rdf:about="http://www.fakedomain.com/id/19890204">
-	<skos:prefLabel>1989-02-04</skos:prefLabel>
-	<skos:definition>Henry J. Kaiser Convention Center, 10 Tenth Street, Oakland, CA 94607</skos:definition>
-</skos:Concept>
-
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19890205">
 	<skos:prefLabel>1989-02-05</skos:prefLabel>
 	<skos:definition>Henry J. Kaiser Convention Center, 10 Tenth Street, Oakland, CA 94607</skos:definition>
@@ -9299,12 +9265,12 @@
 </skos:Concept>
 
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19890714">
-	<skos:prefLabel>1989-07-14</skos:prefLabel>
+	<skos:prefLabel>1989-07-13</skos:prefLabel>
 	<skos:definition>Robert F. Kennedy Stadium, 2400 East Capitol St. SE, Washington, DC 20003</skos:definition>
 </skos:Concept>
 
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19890716">
-	<skos:prefLabel>1989-07-16</skos:prefLabel>
+	<skos:prefLabel>1989-07-15</skos:prefLabel>
 	<skos:definition>Deer Creek Music Center, 12880 E 146th St, Knoblesville, IN 46060</skos:definition>
 </skos:Concept>
 
@@ -10721,11 +10687,6 @@
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19930616">
 	<skos:prefLabel>1993-06-16</skos:prefLabel>
 	<skos:definition>Freedom Hall, Louisville, KY</skos:definition>
-</skos:Concept>
-
-<skos:Concept rdf:about="http://www.fakedomain.com/id/19930617">
-	<skos:prefLabel>1993-06-17</skos:prefLabel>
-	<skos:definition>Soldier Field, 1410 Museum Campus Dr, Chicago, IL 60605</skos:definition>
 </skos:Concept>
 
 <skos:Concept rdf:about="http://www.fakedomain.com/id/19930618">
