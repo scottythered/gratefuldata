@@ -2,11 +2,11 @@
 Welcome to Grateful Data. Grateful Data isn't programming code (per se), but an online tutorial about data acquisition, cleaning and enriching, using publicly accessible data on the band [the Grateful Dead](https://archive.org/details/GratefulDead) as examples.
 
 ## Getting Started
-To get started, you will need a program called Refine. If you don't already have it, I would recommend downloading and installing version 2.5; released  in 2011 (when it was still called Google Refine), version 2.5 is currently the stable version. A beta version of 2.6 (branded as Open Refine) is available on GitHub but has not been updated since 2013.
+To get started, you will need a program called OpenRefine. If you don't already have it, I would recommend downloading and installing version 2.8; released in 2017. Version 2.8 is currently the stable version. 
 
-Refine's GitHub, with download links and installation instructions, is [here](https://github.com/OpenRefine/OpenRefine).
+OpenRefine's website, with download links and installation instructions, is [here](http://openrefine.org).
 
-Once Refine is installed on your machine, click on [DOWNLOAD ZIP](https://github.com/scottythered/gratefuldata/archive/master.zip) to save the practice/sample data locally. Then click the [Wiki] (https://github.com/scottythered/gratefuldata/wiki) link at the top of the page to jump right in.
+Once OpenRefine is installed on your machine, click on [DOWNLOAD ZIP](https://github.com/scottythered/gratefuldata/archive/master.zip) to save the practice/sample data locally. Then click the [Wiki] (https://github.com/scottythered/gratefuldata/wiki) link at the top of the page to jump right in.
 
 ## A Note About Licensing
 The instructions of this tutorial are licensed as Creative Commons Attribution-NonCommercial-ShareAlike 4.0. More information is available [here] (https://creativecommons.org/licenses/by-nc-sa/4.0/), but the short version is treat it like a tape-trader: share and share alike, but not for commercial purposes, and always with  appropriate credit. If you want to build on what I've done, fantastic, but only under the same license.
