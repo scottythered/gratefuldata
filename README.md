@@ -2,9 +2,7 @@
 Welcome to Grateful Data. Grateful Data isn't programming code (per se), but an online tutorial about data acquisition, cleaning and enriching, using publicly accessible data on the band [the Grateful Dead](https://archive.org/details/GratefulDead) as examples.
 
 ## Getting Started
-To get started, you will need a program called OpenRefine. If you don't already have it, I would recommend downloading and installing version 2.8; released in 2017. Version 2.8 is currently the stable version. 
-
-OpenRefine's website, with download links and installation instructions, is [here](http://openrefine.org).
+To get started, you will need a program called **OpenRefine**. If you don't already have it, I would recommend downloading and installing the current stable version. OpenRefine's website, with download links and installation instructions, is [here](http://openrefine.org).
 
 Once OpenRefine is installed on your machine, click on [DOWNLOAD ZIP](https://github.com/scottythered/gratefuldata/archive/master.zip) to save the practice/sample data locally. Then click the [Wiki](https://github.com/scottythered/gratefuldata/wiki) link at the top of the page to jump right in.
 
